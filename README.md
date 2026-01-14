@@ -31,7 +31,7 @@
 
 <div align="center">
   <h3>👇 Conheça meus projetos</h3>
-  <a href="[joao-dev.netlify.app](https://app.netlify.com/projects/joao-dev/overview)" target="_blank">
+  <a href="https://app.netlify.com/projects/joao-dev/overview" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visite_Meu_Portfólio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Button" height="40" />
   </a>
 </div>
